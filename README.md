@@ -1,8 +1,9 @@
 # HỆ THỐNG GIÁM SÁT VÀ PHÂN TÍCH HÀNH ĐỘNG TÉ NGÃ
 
 <p align="center">
-  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
-  <img src="images/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+  <img src="path/to/DaiNamUniversityLogo.png" alt="DaiNam University Logo" onerror="this.onerror=null; this.src='default-image.png';">
+<img src="path/to/AIoTLabLogo.png" alt="AIoTLab Logo" onerror="this.onerror=null; this.src='default-image.png';">
+
 </p>
 
 <div align="center">
